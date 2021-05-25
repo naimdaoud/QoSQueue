@@ -1,0 +1,3 @@
+﻿  Problem2_Queue.cpp
+C:\Users\Administrator\Desktop\Personal\Info2206\Project\Problem2_Queue\Problem2_Queue\Problem2_Queue.cpp(118,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Problem2_Queue.vcxproj -> C:\Users\Administrator\Desktop\Personal\Info2206\Project\Problem2_Queue\Debug\Problem2_Queue.exe
