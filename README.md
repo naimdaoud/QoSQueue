@@ -1,2 +1,1 @@
-# Info2206ProjectEx2
-Info2206 Project for 2021 - Problem2 - Queue
+We aim to implement a quality of service system in a network router so that it can differentiate the type of traffic traversing it, and it can give privilege to data belonging to a given traffic compared to other type of data.
